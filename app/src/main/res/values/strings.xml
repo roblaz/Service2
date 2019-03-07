@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service2</string>
+    <string name="click">CLICK</string>
+    <string name="send">SEND</string>
+</resources>
